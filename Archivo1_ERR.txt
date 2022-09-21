@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Este es un cambio en el Archivo1_ERR.txt desde el editor web de GitHub.
+=======
+otro cambio desde Vs Code localmente.
+>>>>>>> Stashed changes
